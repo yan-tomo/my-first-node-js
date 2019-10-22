@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "my-first-shell"
+		},
+		{
+			"path": "httpd"
+		}
+	],
+	"settings": {}
+}
